@@ -1,6 +1,5 @@
 # jarray
-My javascript arrays vs erlang lists serializing and deserializing utility written in 2013.03  
-Because JSON format is not built-in into Erlang, so I wrote this for my personal use.
+My utility for serializing and deserializing JavaScript arrays and Erlang lists, written in March 2013! I developed this for my personal needs as Erlang does not have built-in support for JSON format.
 
 ```javascript
 // javascript
